@@ -2,6 +2,7 @@
 ### Ola, Me chamo Adriano Leonidas 🍀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/adriano-leonidas-3504581b3/)]
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/_adrianoleonidas_/)]
 
 ![AdrianoLeonidas GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoLeonidas&show_icons=true&theme=radical)
